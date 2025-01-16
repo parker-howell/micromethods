@@ -45,11 +45,13 @@ The final write-up of the project should be about three pages, and no more than 
 
 There are important dates associated with the project. 
 
-1. Submit a list of at least two potential projects. [date tbd]
+1. Submit a list of at least two potential projects. [Friday, Jan 31 at 5PM]  
 
-2. Submit a draft of a write-up of the model and starting work on the code to simulate the model. [date tbd]
+2. Submit a draft of a write-up of the model and preliminary work on the code to simulate the model. [Friday, March 21 5PM]  
 
-3. Submit the final project. [date tbd, end of semester]
+3. Submit the final project. [Fri May 2, 5PM]  
+
+If you would like accelerated dates, you can submit these items on 1/24, 2/14, and 3/14.  
 
 
 
