@@ -176,6 +176,8 @@ x_new = Optim.minimizer(result)
 
 ## Benchmarking Results
 
+I posted a file ```optimization-benchmark.jl``` that compares different methods using two tricky objective functions. 
+
 | Function | Method | Gradient Type | Mean Time (s) | Std Time | Mean Iterations | Convergence Rate | Best Minimum |
 |----------|---------|---------------|--------------|-----------|-----------------|-----------------|--------------|
 | Rosenbrock | NelderMead | None | 0.0005 | 0.0013 | 70.3 | 1.0 | 5.91e-10 |
