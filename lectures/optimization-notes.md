@@ -114,6 +114,10 @@ In practice this method is not used because:
 * No guarantee that next step increases the function value because $f''$ need not satisfy the Second Order Conditions (negative definiteness)
 * Also, like most of the procedures we will talk about, we can only find local minimum. (but this is basically unavoidable)
 
+
+easiest way to ensure Hessian is ND: just make it a constant (e.g., -1)
+
+
 ## Quasi-Newton Methods
 
 In practice, we use a strategy similar to Newton-Raphson, but employ an approximation to the Hessian that we force/require to be negative-definite.
