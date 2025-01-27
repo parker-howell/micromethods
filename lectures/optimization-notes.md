@@ -221,3 +221,13 @@ Plus, the inverse "Hessian" is an estimate for the covariance of $θ$, so we get
 * MCMC approaches: Chernozhukov and Hong (2003)
 
 These methods can be very very slow to converge, but are useful in cases where you know your objective function is non-smooth or very ill-behaved.
+
+In Matlab, I have used `simualted annealing` in the `Global Optimization Toolbox`.
+
+In Julia, here are your options:
+```julia
+using Optim
+using BlackBoxOptim
+using NLopt
+using Evolutionary
+```
